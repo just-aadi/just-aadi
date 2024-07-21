@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aadi Amit Ringay</h1>
 <h3 align="center">A passionate developer from India who is eager to learn and contribute</h3>
 
+I am Aadi Amit Ringay, 🚀 Passionate Data Science Enthusiast | pursuing B.Tech in CSE (Data Science) | Quick Learner | Open to Opportunities
+
+💻 Technical Skills: Proficient in data science concepts, data mining, and business intelligence Hands-on experience with PowerBi and Tableau Knowledge of machine learning algorithms and implementation in Python.
+
 - 🔭 I’m currently working on **WordPress**
 
 - 🌱 I’m currently learning **next.js , deep learning**
 
 - 👯 I’m looking to collaborate on **Web Development , AiML ,DS**
 
-- 📫 How to reach me **officialaadfi@gmail.com**
 
-- ⚡ Fun fact **I i am creative**
+- ⚡ Fun fact **: I i am creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
