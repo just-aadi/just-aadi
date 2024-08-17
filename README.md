@@ -6,7 +6,7 @@ self-motivated worker being skilled in problem-solving under pressure, aiming fo
 learning new things drives me to continuously seek improvement, never settling for the status quo. Coordinating with teams
 to get projects done is my specialty while ensuring every task is completed efficiently and effectively. 
 
-- 🔭 I’m currently working on **WordPress**
+- 🔭 I’m currently working on **SQL, ETL , Data Engineering**
 
 - 🌱 I’m currently learning **next.js , deep learning**
 
