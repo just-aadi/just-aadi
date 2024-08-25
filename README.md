@@ -8,7 +8,7 @@ to get projects done is my specialty while ensuring every task is completed effi
 
 - 🔭 I’m currently working on **SQL, ETL , Data Engineering**
 
-- 🌱 I’m currently learning **next.js , deep learning**
+- 🌱 I’m currently learning **DevOps, Docker, CI/CD Pipelines, Kubernetes**
 
 - 👯 I’m looking to collaborate on **Web Development , AiML ,DS**
 
