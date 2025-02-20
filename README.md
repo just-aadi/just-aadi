@@ -6,11 +6,11 @@ self-motivated worker being skilled in problem-solving under pressure, aiming fo
 learning new things drives me to continuously seek improvement, never settling for the status quo. Coordinating with teams
 to get projects done is my specialty while ensuring every task is completed efficiently and effectively. 
 
-- 🔭 I’m currently working on **SQL, ETL , Data Engineering**
+- 🔭 I’m currently working on **AI/ML, Python, LLMs, RAG, Automation**
 
 - 🌱 I’m currently learning **DevOps, Docker, CI/CD Pipelines, Kubernetes**
 
-- 👯 I’m looking to collaborate on **Web Development , AiML ,DS**
+- 👯 I’m looking to collaborate on **NLP, BERT, DS**
 
 
 - ⚡ Fun fact **: I i am creative**
