@@ -20,11 +20,11 @@ to get projects done is my specialty while ensuring every task is completed effi
 </p>
 
 <h3 align="left">My Specialisations:</h3>
-- Data Science ,Web Development, Machine Learning , Deep Learning
+- Data Science , Machine Learning , Deep Learning, Web Development
+
+- Python , SQL , Pandas , MatPlotlib , PowerBI, Tableau, LLMs
 
 - WordPress , HTML , CSS , JavaScript , React , FireBase
-
-- Python , SQL , Pandas , MatPlotlib , PowerBI, Tableau
 
 - Figma , Adobe Premiere Pro , Adobe Photoshop
 
